@@ -1,0 +1,21 @@
+
+[
+{
+    "id":"1",
+    "name":"Zimbabwe",
+    "code":"ZW",
+    "capitalCity":"Harare"
+},
+{
+    "id":"2",
+    "name":"Zambia",
+    "code":"ZM",
+    "capitalCity":"Lusaka"
+},
+{
+    "id":"3",
+    "name":"Botswana",
+    "code":"BW",
+    "capitalCity":"Gaborone"
+}
+]
